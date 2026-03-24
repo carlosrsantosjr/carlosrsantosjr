@@ -13,4 +13,5 @@ Atuação em:
 - Sistemas inteligentes
 
 ## 📫 Contato
-- ORCID: (seu link)
+- Email: carlos.santos@ifms.edu.br
+- ORCID: https://orcid.org/0000-0003-1597-0520
