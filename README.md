@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👨‍🏫 Prof. Dr. Carlos R. Santos Jr
 
-<!--
-**carlosrsantosjr/carlosrsantosjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professor de Informática – IFMS (Três Lagoas)  
+Atuação em:
+- Estruturas de Dados
+- Algoritmos
+- Machine Learning
+- Inteligência Artificial aplicada
 
-Here are some ideas to get you started:
+## 🔬 Interesses de pesquisa
+- IA aplicada
+- Engenharia de Software com IA
+- Sistemas inteligentes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+- ORCID: (seu link)
